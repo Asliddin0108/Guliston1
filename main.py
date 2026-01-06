@@ -11,7 +11,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # 🔐 SOZLAMALAR
 # =======================
 
-BOT_TOKEN = "8312792165:AAEPSd29mupphjvpdPUTGYkM-JmsOoGrBF0"
+BOT_TOKEN = "8103723846:AAFoSE_mzzq7fmZ9_n9By7scFM485cgfafw"
 GROUP_ID = -1003555493835
 ADMIN_ID = 8238730404
 
